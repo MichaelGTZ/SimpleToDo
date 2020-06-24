@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[App Demo Link] (Screenshots/Simple_Todo_Demo.gif)
+'![App Demo Link] (Screenshots/Simple_Todo_Demo.gif)'
 
 GIF created with [Kap](https://getkap.co/).
 
